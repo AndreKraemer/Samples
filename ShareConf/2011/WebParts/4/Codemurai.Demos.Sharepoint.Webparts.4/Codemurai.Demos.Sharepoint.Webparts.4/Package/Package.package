@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b9e9cd9d-494a-4634-8ab1-2b6b980c0361" solutionId="b9e9cd9d-494a-4634-8ab1-2b6b980c0361" resetWebServer="false" name="Codemurai.Demos.Sharepoint.Webparts._4" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="Codemurai.Demos.Sharepoint.Webparts.4.Core.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\Codemurai.Demos.Sharepoint.Webparts.4.Core\Codemurai.Demos.Sharepoint.Webparts.4.Core.csproj" />
+    <projectOutputAssembly location="Codemurai.Demos.Sharepoint.Webparts.4.Control.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\Codemurai.Demos.Sharepoint.Webparts.4.Control\Codemurai.Demos.Sharepoint.Webparts.4.Control.csproj">
+      <safeControls>
+        <safeControl assemblyName="Codemurai.Demos.Sharepoint.Webparts.4.Control" namespaceName="Codemurai.Demos.Sharepoint.Webparts._4.Control.View" typeName="*" isSafeAgainstScript="false" />
+      </safeControls>
+    </projectOutputAssembly>
+    <customAssembly location="StructureMap.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\Lib\StructureMap.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="8c778f05-e50b-46c7-830e-ca5b3d73ff34" />
+  </features>
+</package>

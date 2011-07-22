@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Codemurai.Demos.Sharepoint.Webparts._4.Control.View.Announcement4, Codemurai.Demos.Sharepoint.Webparts.4.Control, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f18a3aa89e64bfca" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Announcement4</property>
+        <property name="Description" type="string">Mein WebPart</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

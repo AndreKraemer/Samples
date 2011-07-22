@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemurai.Demos.Sharepoint.Webparts.4.Tests", "Codemurai.Demos.Sharepoint.Webparts.4.Tests\Codemurai.Demos.Sharepoint.Webparts.4.Tests.csproj", "{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CE9197E-ADFD-4FB7-8938-E3F8ECB191AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemurai.Demos.Sharepoint.Webparts.4.Control", "Codemurai.Demos.Sharepoint.Webparts.4.Control\Codemurai.Demos.Sharepoint.Webparts.4.Control.csproj", "{3C6F7644-0206-485A-948B-F6F523AF8200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemurai.Demos.Sharepoint.Webparts.4.Core", "Codemurai.Demos.Sharepoint.Webparts.4.Core\Codemurai.Demos.Sharepoint.Webparts.4.Core.csproj", "{6CA50444-7DD5-4A67-B937-12F26057D998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemurai.Demos.Sharepoint.Webparts.4.Data.SP", "Codemurai.Demos.Sharepoint.Webparts.4.Data.SP\Codemurai.Demos.Sharepoint.Webparts.4.Data.SP.csproj", "{E507D400-3AB0-42D1-BE2B-7E883E98472A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemurai.Demos.Sharepoint.Webparts.4", "Codemurai.Demos.Sharepoint.Webparts.4\Codemurai.Demos.Sharepoint.Webparts.4.csproj", "{FA4BC05C-ED18-41AE-85A1-9C6AB378F76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDemo", "WebDemo\WebDemo.csproj", "{0B9A9C79-A2CE-4D76-88E3-393CD18F0616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6F7644-0206-485A-948B-F6F523AF8200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6F7644-0206-485A-948B-F6F523AF8200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6F7644-0206-485A-948B-F6F523AF8200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6F7644-0206-485A-948B-F6F523AF8200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA50444-7DD5-4A67-B937-12F26057D998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA50444-7DD5-4A67-B937-12F26057D998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA50444-7DD5-4A67-B937-12F26057D998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA50444-7DD5-4A67-B937-12F26057D998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E507D400-3AB0-42D1-BE2B-7E883E98472A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E507D400-3AB0-42D1-BE2B-7E883E98472A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E507D400-3AB0-42D1-BE2B-7E883E98472A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E507D400-3AB0-42D1-BE2B-7E883E98472A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4BC05C-ED18-41AE-85A1-9C6AB378F76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4BC05C-ED18-41AE-85A1-9C6AB378F76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4BC05C-ED18-41AE-85A1-9C6AB378F76B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FA4BC05C-ED18-41AE-85A1-9C6AB378F76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4BC05C-ED18-41AE-85A1-9C6AB378F76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4BC05C-ED18-41AE-85A1-9C6AB378F76B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0B9A9C79-A2CE-4D76-88E3-393CD18F0616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9A9C79-A2CE-4D76-88E3-393CD18F0616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9A9C79-A2CE-4D76-88E3-393CD18F0616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9A9C79-A2CE-4D76-88E3-393CD18F0616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

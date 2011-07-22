@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemurai.Demos.Sharepoint.Webparts.3", "Codemurai.Demos.Sharepoint.Webparts.3\Codemurai.Demos.Sharepoint.Webparts.3.csproj", "{76D4B3B3-9D98-4837-8A01-54F8E8DEAA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemurai.Demos.Sharepoint.Webparts.3.Tests", "Codemurai.Demos.Sharepoint.Webparts.3.Tests\Codemurai.Demos.Sharepoint.Webparts.3.Tests.csproj", "{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CE9197E-ADFD-4FB7-8938-E3F8ECB191AB}"
+	ProjectSection(SolutionItems) = preProject
+		Codemurai.Demos.Sharepoint.Webparts.3.vsmdi = Codemurai.Demos.Sharepoint.Webparts.3.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Codemurai.Demos.Sharepoint.Webparts.3.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D4B3B3-9D98-4837-8A01-54F8E8DEAA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D4B3B3-9D98-4837-8A01-54F8E8DEAA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D4B3B3-9D98-4837-8A01-54F8E8DEAA51}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{76D4B3B3-9D98-4837-8A01-54F8E8DEAA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D4B3B3-9D98-4837-8A01-54F8E8DEAA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D4B3B3-9D98-4837-8A01-54F8E8DEAA51}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E87B5A-4ACE-403C-8E1F-CB0F16C3CECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

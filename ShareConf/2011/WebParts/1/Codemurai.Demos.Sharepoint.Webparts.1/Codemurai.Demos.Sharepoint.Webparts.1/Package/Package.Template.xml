@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/">
+<CodeAccessSecurity>
+<PolicyItem>
+<PermissionSet class="NamedPermissionSet" version="1" Description="Permission set for SouthwesternEnergy.Partners.Web.">
+<IPermission class="AspNetHostingPermission" version="1" Level="Minimal" />
+<IPermission class="SecurityPermission" version="1" Flags="Execution,ControlPrincipal,ControlAppDomain,ControlDomainPolicy,ControlEvidence,ControlThread" />
+<IPermission class="Microsoft.SharePoint.Security.SharePointPermission, Microsoft.SharePoint.Security, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"
+version="1" ObjectModel="True" />
+<IPermission class="System.Security.Permissions.EnvironmentPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Read="UserName" />
+<IPermission class="System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Read="$AppDir$;C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\CONTROLTEMPLATES\Codemurai.Demos.Sharepoint.Webparts.1" Write="$AppDir$" Append="$AppDir$" PathDiscovery="$AppDir$" />
+</PermissionSet>
+<Assemblies>
+<Assembly Name="Codemurai.Demos.Sharepoint.Webparts.1" />
+</Assemblies>
+</PolicyItem>
+</CodeAccessSecurity>
+</Solution>
